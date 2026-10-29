@@ -1,0 +1,20 @@
+{
+  "name": "Quadra — QR Code Studio",
+  "short_name": "Quadra",
+  "description": "Free, privacy-first QR code generator that runs 100% in your browser and works offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111426",
+  "theme_color": "#3b33f5",
+  "orientation": "any",
+  "categories": ["utilities", "productivity", "design"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
